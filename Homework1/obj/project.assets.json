@@ -8,26 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\hyukp\\.nuget\\packages\\": {}
+    "C:\\Users\\skgas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hyukp\\Desktop\\Personal\\External\\GlobalEng\\김서현\\20230705\\CSharpBasicSyntax\\Homework1\\Homework1.csproj",
+      "projectUniqueName": "C:\\Users\\skgas\\CSharpBasicSyntax\\Homework1\\Homework1.csproj",
       "projectName": "Homework1",
-      "projectPath": "C:\\Users\\hyukp\\Desktop\\Personal\\External\\GlobalEng\\김서현\\20230705\\CSharpBasicSyntax\\Homework1\\Homework1.csproj",
-      "packagesPath": "C:\\Users\\hyukp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hyukp\\Desktop\\Personal\\External\\GlobalEng\\김서현\\20230705\\CSharpBasicSyntax\\Homework1\\obj\\",
+      "projectPath": "C:\\Users\\skgas\\CSharpBasicSyntax\\Homework1\\Homework1.csproj",
+      "packagesPath": "C:\\Users\\skgas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\skgas\\CSharpBasicSyntax\\Homework1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hyukp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\skgas\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
       }
     }
   }
