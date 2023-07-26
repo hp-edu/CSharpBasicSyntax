@@ -16,7 +16,7 @@ Building building2 = new Building();
 building2.Address = "456 Elm Street";
 building2.Floors = 10;
 
-Building building3 = building2;
+Building building3 = new Building();
 building3.Address = "1000 Big Creek Avenue";
 building3.Floors = 3;
 
@@ -40,6 +40,10 @@ public class Building
             if (value.EndsWith(" Street"))
             {
                 _address = value[..^7] + " St.";
+            }
+            else if (value.EndsWith(" Avenue"))
+            {
+                _address = value[..^7] + " Ave.";
             }
             else
             {
