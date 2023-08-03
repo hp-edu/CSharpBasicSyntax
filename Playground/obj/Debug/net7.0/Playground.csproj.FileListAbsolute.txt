@@ -1,0 +1,15 @@
+C:\Users\skgas\CSharpBasicSyntax\Playground\bin\Debug\net7.0\Playground.exe
+C:\Users\skgas\CSharpBasicSyntax\Playground\bin\Debug\net7.0\Playground.deps.json
+C:\Users\skgas\CSharpBasicSyntax\Playground\bin\Debug\net7.0\Playground.runtimeconfig.json
+C:\Users\skgas\CSharpBasicSyntax\Playground\bin\Debug\net7.0\Playground.dll
+C:\Users\skgas\CSharpBasicSyntax\Playground\bin\Debug\net7.0\Playground.pdb
+C:\Users\skgas\CSharpBasicSyntax\Playground\obj\Debug\net7.0\Playground.csproj.AssemblyReference.cache
+C:\Users\skgas\CSharpBasicSyntax\Playground\obj\Debug\net7.0\Playground.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skgas\CSharpBasicSyntax\Playground\obj\Debug\net7.0\Playground.AssemblyInfoInputs.cache
+C:\Users\skgas\CSharpBasicSyntax\Playground\obj\Debug\net7.0\Playground.AssemblyInfo.cs
+C:\Users\skgas\CSharpBasicSyntax\Playground\obj\Debug\net7.0\Playground.csproj.CoreCompileInputs.cache
+C:\Users\skgas\CSharpBasicSyntax\Playground\obj\Debug\net7.0\Playground.dll
+C:\Users\skgas\CSharpBasicSyntax\Playground\obj\Debug\net7.0\refint\Playground.dll
+C:\Users\skgas\CSharpBasicSyntax\Playground\obj\Debug\net7.0\Playground.pdb
+C:\Users\skgas\CSharpBasicSyntax\Playground\obj\Debug\net7.0\Playground.genruntimeconfig.cache
+C:\Users\skgas\CSharpBasicSyntax\Playground\obj\Debug\net7.0\ref\Playground.dll
