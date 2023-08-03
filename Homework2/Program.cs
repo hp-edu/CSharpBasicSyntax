@@ -8,22 +8,21 @@ numbers[1] = -2;
 numbers[2] = 0;
 numbers[3] = 4;
 numbers[4] = -5;
-numbers[5] = 10;
 
 
 foreach (int number in numbers)
 {
     if (number > 0)
     {
-        Console.WriteLine($"Number {value} is positive");
+        Console.WriteLine($"Number {number} is positive");
     }
     else if (number < 0)
     {
-        Console.WriteLine($"Number {value} is negative");
+        Console.WriteLine($"Number {number} is negative");
     }
     else
     {
-        Console.WriteLine($"Number {value} is zero");
+        Console.WriteLine($"Number {number} is zero");
     }
 }
 /* 
